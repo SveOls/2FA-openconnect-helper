@@ -3,7 +3,7 @@ Minimal bash script that lets you use 2FA with openconnect in some circumstances
 
 Specifically, when you need to run openconnect as root while also needing it to open a browser for 2FA. 
 
-NOTE: I have not tested this on any other machine or vpn than my computer and the vpn I connected to. I have only posted this because it was a pain and it would've been helpful for me. If it does not work for you, I at least hope it helps you find a solution.
+NOTE: I am an amateur when it comes to bash and linux. I have not tested this on any other machine or vpn than my computer and the vpn I connected to. I have only posted this because figuring it out was a pain and it would've been helpful for me. If it does not work for you, I at least hope it helps you find a solution.
 
 Usage: 
 
